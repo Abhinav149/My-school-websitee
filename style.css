@@ -1,0 +1,30 @@
+body{
+    text-align: center;
+}
+#myschool{
+  width:1250px;
+    height: 500px
+}
+#About{
+    background-color:darkred;
+}
+h1{
+    background-color: aquamarine;
+    color: darkorchid
+}
+p{
+    font-size: 25px;
+    color:blue
+}
+p1{
+    font-size:15px;
+    color:blue;  
+    margin-bottom: :35%;
+}
+#contacts{
+    background-color:black;
+    text-align: center
+}
+#lal{
+ text-align: left;
+}
